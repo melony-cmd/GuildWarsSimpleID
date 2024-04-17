@@ -879,6 +879,132 @@
 138162 - Monster
 138178 - Monster
 138183 - Monster
+138298 - Monster
+138303 - Monster
+138333 - Crab
+138336 - Character Male (Child)
+139193 - Character Male
+139278 - Character Male
+139282 - Character Female
+139286 - Character Male (Child)
+139322 - Character Female (Child)
+140233 - Character Male
+140338 - Character Male
+140385 - Character Female
+140441 - Character Male
+140727 - Character Male
+140731 - Character Male
+140951 - Monster
+140958 - Phoenix
+141181 - Character Male
+142411 - Character Male
+144196 - Kormir 
+144200 - Character Female
+145066 - Character Female
+145228 - Character Male
+145287 - Monster
+145316 - Character Female (Weird Head)
+145319 - Character Female (Weird Head)
+145333 - Dolyak
+145336 - Turtle
+145342 - Hog Pig
+145886 - Character Male
+145928 - Switch
+146158 - Monster
+146228 - Character Male
+146313 - Character Male
+146851 - Character Male (Dead)
+147099 - Norn Character Male
+147223 - Weird Dragon
+147701 - Character Female
+147983 - Character Female
+147986 - Character Male
+148402 - Character Male
+148406 - Character Female
+148429 - Justiciar Hablion
+148516 - Character Male
+148728 - Monster
+148740 - Monster
+148805 - Monster
+148808 - Monster
+148812 - Monster
+148816 - Monster
+148961 - Character Male (Ghostly) [pink]
+148966 - Character Female (Ghostly) [pink]
+150293 - Varesh Ossa
+152676 - Character Male (Ghostly)
+153780 - Jalis Ironhammer
+154395 - Birds
+155386 - Character Male
+155547 - Birds
+156186 - Brechnar Ironhammer
+156459 - Character Female
+156471 - Storm Caller 
+156500 - Erol
+156503 - Character Male
+157044 - Glint (Head)
+157366 - Monster
+157432 - Monster
+157799 - Monster (Ghostly)
+157900 - Monster
+158151 - Character Female
+158154 - Character Male
+158287 - Character Female
+158305 - Bull
+158947 - Character Female
+160610 - Switch
+160698 - Moa
+160700 - Pig
+160702 - Monster (Bone Dragon)
+160704 - Monster
+160706 - Monster
+160708 - Monster
+160710 - Monster
+160712 - Monster
+160714 - Monster
+160716 - Confessor Dorian
+160718 - Vizier Khilbron
+160722 - Lich
+160750 - Monster (Ghostly)
+160752 - Monster
+160778 - Monster
+160788 - Monster
+160790 - Monster
+160792 - Monster
+160836 - Moa
+160843 - Monster
+160863 - Monster
+160878 - Monster
+160900 - Bird
+160961 - Monster
+160976 - Golem
+160980 - Bird
+161016 - Golem
+161040 - Bat
+161257 - Monster
+161582 - Monster
+162332 - Monster (Ghostly)
+162336 - Monster (Ghostly)
+162903 - Monster
+162959 - Monster [Skeleton]
+162963 - Monster [Skeleton]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
