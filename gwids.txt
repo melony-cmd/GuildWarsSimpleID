@@ -1,3 +1,7 @@
+NB: Might be missing some henchmen / heros as I might not have recognized them as such, so you might
+find them under Characer Male/Female instead, additionally I might have assigned [HERO] to someone
+whom isn't one in either case, when I'm unsure I've tagged things with "?".
+
 12625 - Skale
 12830 - Rurik's Sword
 13985 - Quest !
