@@ -836,6 +836,56 @@
 136161 - Monster
 136171 - Character Male
 136176 - Character Female
+136182 - Character Male
+136533 - Monster Female
+136536 - Monster Male
+136740 - Monster
+136746 - Monster
+136824 - Monster
+136829 - Monster
+136843 - Character Male (Ghostly)
+136989 - Monster
+137119 - Monster
+137123 - Monster
+137128 - Monster
+137133 - Monster
+137138 - Monster
+137158 - Black Crow
+137161 - Black Crow
+137263 - Black Crow
+137525 - Monster
+137530 - Monster
+137534 - Monster
+137539 - Monster
+137543 - Monster
+137546 - Monster
+137550 - Monster
+137594 - Character Male (Ghostly)
+137599 - Character Female (Ghostly)
+137602 - Monster
+137606 - Monster
+137615 - Monster
+137619 - Monster
+137874 - Wurm
+137880 - Monster
+137893 - Monster
+137900 - Wurm
+138055 - Monster
+138103 - Monster
+138107 - Monster
+138111 - Monster
+138116 - Monster
+138120 - Monster
+138162 - Monster
+138178 - Monster
+138183 - Monster
+
+
+
+
+
+
+
 
 
 
