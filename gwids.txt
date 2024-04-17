@@ -1,0 +1,952 @@
+12625 - Skale
+12830 - Rurik's Sword
+13985 - Quest !
+14164 - Eye of Janthiea 
+14274 - Flamingo
+14489 - Ettin Club
+15532 -> 15555 Cape Tops
+15765 - Cepter of Orr
+16082 - Character Male
+16086 - Character Male
+16089 - Character Male
+16092 - Character Female
+16096 - Character Female
+16100 - Young Gwen
+16103 - Cape Top
+16106 - Character Male
+16109 - Character Male
+16113 - Character Female
+16117 - Character Male
+16122 - Character Female
+16126 - Character Male
+16132 - King Adelburn
+17125 - Seer
+17171 - Charr
+17177 - Rurik
+17180 - Menator
+17183 - Monster
+17187 - Character Male
+17192 - Griffen
+17199 - Ghostly Hero
+17203 - Maasart
+17206 - Monster
+17209 - Monster
+17212 - Monster
+17215 - Monster
+17219 - Monster
+17225 - Monster
+17233 - D'Rurik
+17771 - Monster
+18089 - Monster
+18093 - Dredge
+18096 - Grawl
+18101 - Charr
+18104 - Character Female
+18108 - Monster
+18111 - Monster
+18117 - Imp Fire
+18123 - Monster
+18127 - Character Female
+18130 - Character Male
+18136 - Character Male
+18139 - Hydra
+18142 - Monster
+18335 - Monster
+18340 - Monster
+18627 - Character Male
+18630 - Monster
+18869 - Salt Spray Dragon
+18872 - Monster
+18881 - Monster
+18960 - Mad King
+19056 - Character Male
+19126 -> 19129 - Cape Tops
+19244 -> 19247 - Cape Tops
+19852 - Character Female
+19856 - Character Female
+19862 - Monster
+19868 - Character Female
+19874 - Character Male
+19897 - Turtle
+19901 - Monster
+19904 - Monster
+19910 - Monster
+19914 - Monster
+19920 - Monster
+21101 - Panda
+21104 - Character Female
+21108 - Character Female
+21113 - Character Male
+21120 - Character Female
+21125 - Character Male
+21129 - Character Female
+21134 - Character Female
+21138 - Character Female
+21142 - Character Female
+21146 - Character Male
+21151 - Character Female
+21155 - Character Male
+21158 - Monster
+21162 - Character Female
+21165 - Character Female
+21168 - Monster
+21173 - Character Female
+21178 - Monster
+21182 - Monster
+21185 - Monster
+21190 - Character Male
+21195 - Monster
+21198 - Monster
+21202 - Shiro
+21206 - Monster
+21315 - ??
+21332 - Frog
+21493 -> 21500 - Cape Tops
+22651 - Bull
+22740 - Character Male
+22745 - Monster
+22747 - Monster
+22754 - Monster
+22757 - Monster
+22760 - Monster
+22763 - Monster
+22766 - Monster
+22770 - Monster
+22776 - Character Female
+22781 - Character Female
+23426 - Monster
+23428 - Monster
+24075 - Monster
+24079 - Monster
+24083 - Character Male
+24087 - Character Male
+24090 - Character Male
+24096 - Character Female
+24099 - Character Female
+24102 - Character Female
+24104 - Rabbit
+24107 - Harpy
+24110 - Character Male (HERO) Norgu
+24112 - Character Male (HERO) Norgu
+24114 - Character Male (HERO) Norgu
+24117 - Character Male (HERO) Goren
+24119 - Character Male (HERO) Goren
+24121 - Character Male (HERO) Goren
+24124 - Character Male (HERO) Zhed Shadowhoof
+24127 - Character Male (HERO) Zhed Shadowhoof
+24130 - Character Male (HERO) Zhed Shadowhoof
+24134 - Character Male (HERO) General Morgahn
+24136 - Character Male (HERO) General Morgahn
+24138 - Character Male (HERO) General Morgahn
+24143 - Character Female (HERO) Margrid the Sly
+24146 - Character Female (HERO) Margrid the Sly
+24147 - Character Female (HERO) Margrid the Sly
+24151 - Character Female (HERO) Tahlkora
+24154 - Character Female (HERO) Tahlkora
+24156 - Character Female (HERO) Tahlkora
+24159 - Character Male (HERO) Master of Whispers
+24161 - Character Male (HERO) Master of Whispers
+24164 - Character Male (HERO) Master of Whispers
+24167 - Character Female (HERO) Acolyte Jin
+24170 - Character Female (HERO) Acolyte Jin
+24173 - Character Female (HERO) Acolyte Jin
+24176 - Character Male (HERO) Koss
+24179 - Character Male (HERO) Koss
+24182 - Character Male (HERO) Koss
+24186 - Character Male (HERO) Dunkoro
+24190 - Character Male (HERO) Dunkoro
+24194 - Character Male (HERO) Dunkoro
+24197 - Character Male (HERO) Acolyte Sousuke
+24200 - Character Male (HERO) Acolyte Sousuke
+24203 - Character Male (HERO) Acolyte Sousuke
+24208 - Character Female (HERO) Melonni
+24211 - Character Female (HERO) Melonni
+24214 - Character Female (HERO) Melonni
+24218 - Monster
+24220 - Bettle
+24223 - Character Male
+24227 - Character Female
+24231 - Character Male
+24234 - Monster
+24239 - Varesh Ossa
+24242 - Monster
+24245 - Monster
+24248 - Joko
+24252 - Character Male
+24633 - Frog (Halloween)
+24687 - Bettle
+24743 - Character Male (HERO) Razah
+24745 - Character Male (HERO) Razah
+24748 - Character Male (HERO) Razah
+24929 - Frog (Winters Day)
+24932 - Monster
+24958 - Monster
+24960 - Monster
+24962 - Monster
+24984 - Bettle
+25023 - Asura
+25371 - Monster
+25399 - Monster
+25439 - Monster
+25479 - Monster
+25517 - Monster
+26302 - Animal
+26305 - Vekk 
+26308 - Asura
+26310 - Asura
+26415 - Charr Character Male (HERO) Pyre Fierceshot
+26418 - Charr Character Male (HERO) Pyre Fierceshot
+26422 - Charr Character Male (HERO) Pyre Fierceshot
+26480 - Dwarf Charr Character Male (HERO) Ogden Stonehealer
+26484 - Dwarf Charr Character Male (HERO) Ogden Stonehealer
+26487 - Dwarf Charr Character Male (HERO) Ogden Stonehealer
+26491 - Character Male (HERO) Anton
+26496 - Character Male (HERO) Anton
+26501 - Character Male (HERO) Anton
+26505 - Character Female (HERO) Livia
+26508 - Character Female (HERO) Livia
+26510 - Character Female (HERO) Livia
+26514 - Character Female (HERO) Hayda
+26517 - Character Female (HERO) Hayda
+26521 - Character Female (HERO) Hayda
+26526 - Character Male (HERO) Kahmu
+26529 - Character Male (HERO) Kahmu
+26532 - Character Male (HERO) Kahmu
+26608 - Character Female (HERO) Gwen
+26613 - Character Female (HERO) Gwen
+26616 - Character Female (HERO) Gwen
+26621 - Character Female (HERO) Xandra
+26624 - Character Female (HERO) Xandra
+26628 - Character Female (HERO) Xandra
+26699 - Norn Character Female (HERO) Jora
+26703 - Norn Character Female (HERO) Jora
+26708 - Norn Character Female (HERO) Jora
+26713 - Character Female
+26747 - Monster
+26821 - Monster
+26823 - Monster
+26957 - Monster
+27025 - Norn Character Male
+27081 - Norn Bear
+27122 - Monster
+27200 - Monster
+27203 - Asura
+27205 - Asura
+27410 - Character Male
+27413 - Character Female
+27416 - Character Male
+27419 - Monster (Rat)
+27421 - Monster (Bull)
+27423 - Monster (Tiger)
+27425 - Monster (Rabit)
+27427 - Monster (Snake)
+27429 - Monster (?)
+27431 - Monster (Ox)
+27433 - Monster (Monkey)
+27435 - Monster (Wolf)
+27459 - Stick Man
+27564 - Golem Character (Hero) M.O.X (Green)
+27567 - Golem Character (Hero) M.O.X (Red)
+27570 - Golem Character (Hero) M.O.X (Blue)
+27573 - Golem
+27576 - Golem Character (Hero) M.O.X (Purple)
+27579 - Golem Character (Hero) M.O.X (Brown)
+27584 - Animal
+27589 - Bettle
+27619 - Character Male
+27622 - Character Female
+27625 - Character Male
+27628 - Character Male
+27670 - Monster
+27681 - Character Female
+27706 - Character Male
+27727 - Character Male
+27730 - Character Female
+27754 - Character Male
+27758 - Character Male
+27789 - Character Male
+27793 - Character Female
+27813 - Charr Character Male
+27999 - Lamp Stand
+29050/29162 - Animal (Stand/Sit)
+29337 - Lamp Stand
+ / \  
+  |
+	(most things between these id's are normally just map objects, but NOT exclusively!)
+  |
+ \ /
+46788 - Character Male
+46794 - Character Male
+46800 - Character Female
+46806 - Character Male
+ / \  
+  |
+	(most things between these id's are normally just map objects, but NOT exclusively!)
+  |
+ \ /
+80587 - Character Male
+80591 - Character Male
+80747 - Dwarf Character Male
+80751 - Dwarf Character Male
+80755 - Character Female
+80767 - Character Male
+80770 - Character Male
+80774 - Character Male
+80778 - Character Female
+80781 - Character Male
+80786 - Character Male
+80943 - Character Male
+80949 - Character Male
+81172 - Monster
+81176 - Monster
+81366 - Monster
+83017 - Monster
+83069 - Monster
+83171 - Monster
+83239 - Monster
+83670 - Monster
+83676 - Character Male
+83685 - Character Male
+83691 - Character Male (Henchman) Little Thom
+83696 - Character Male (Henchman) Dunham
+83701 - Character Male (Henchman) Claude
+83706 - Character Female (Henchman) Lina
+83711 - Character Male (Henchman) Mhenlo
+83717 - Character Male
+83723 - Monster
+83730 - Character Male
+83736 - Character Male
+83912 - Monster
+83934 - Monster
+83939 - Bear
+83944 - Wolf
+83949 - Monster
+83954 - Character Male
+83959 - Monster
+83964 - Lynx
+83969 - Character Male (Henchman) Stefan
+83977 - Character Female
+83985 - Character Male
+83991 - Character Male (Henchman) Orion
+83996 - Character Female (Henchman) Alesia
+84001 - Character Female (Henchman) Reyna
+84007 - Character Male Child
+84088 - Character Female
+84147 - Monster
+84154 - Character Male
+84160 - Character Female Child
+84168 - Character Male
+84173 - Character Male
+84181 - Character Male
+84187 - Character Male
+84192 - Monster
+84397 - Character Male
+84434 - Character Female
+84440 - Character Female
+84446 - Character Female
+84452 - Character Female
+84458 - Character Male
+84701 - Character Male
+84707 - Character Male
+84713 - Character Male
+84718 - Character Male
+84723 - Character Male
+84729 - Character Male
+84831 - Character Male
+84872 - Animal
+84927 - Animal
+84968 - Animal
+84975 - Monster
+85327 - Character Female
+85332 - Character Female
+85338 - Character Male
+85365 - Character Female
+91926 - Character Male
+91930 - Character Male
+92019 - Charr Character Male
+92023 - Charr Character Male
+92028 - Charr Character Male
+92032 - Character Male
+92035 - Monster
+92042 - Monster
+92046 - Monster
+92113 - Character Male
+92201 - Monster
+92287 - Character Male
+92635 - Character Female
+92689 - Monster
+92947 - Monster
+93156 - Monster
+93160 - Monster
+93163 - Monster
+93318 - Monster
+93323 - Dwarf Character Male
+93327 - Dwarf Character Male
+93332 - Dwarf Character Male
+93335 - Character Male
+93852 - Monster
+93956 - Monster
+93959 - Monster
+93962 - Monster
+93965 - Monster
+93968 - Monster
+93990 - Monster
+93993 - Monster (Ice Imp)
+93996 - Monster
+94054 - Monster
+94057 - Monster
+94118 - Monster
+94585 - Character Male
+94588 - Monster
+94801 - Character Male
+94805 - Monster
+94808 - Monster
+94813 - Monster
+94815 - Monster
+94819 - Character Female
+94822 - Character Male
+94825 - Character Male
+94830 - Character Male
+95201 - Character Female (Henchman) Eve
+95209 - Character Male (Henchman) Aidan
+95217 - Character Female (Henchman) Cynn
+95223 - Character Female (Henchman) Devona
+95229 - Character Male (Henchman) Mhenlo
+95243 - Character Male
+95251 - Character Male
+95320 - Character Male (Henchman) Lo Sha
+95326 - Character Female (Henchman) Zho
+95371 - Character Female (Henchman) Herta
+95560 - Eye of the North (Outpost Model)
+96551 - Character Male
+96557 - Character Female
+96561 - Character Male
+96565 - Character Male
+96569 - Norn Character Male
+96574 - Norn Character Male
+96579 - Norn Character Female
+96583 - Norn Bear
+96588 - Norn Character Female
+96592 - Asura
+96653 - Asura
+96657 - Asura
+97007 - Character Male (?Henchman?) ?
+97053 - Wolf
+97729 - Monster
+97732 - Monster
+98200 - Monster
+98204 - Character Male
+98211 - Character Female
+98216 - Character Female
+98219 - Monster
+98222 - Monster
+98353 - Monster
+98547 - Character Male
+98598 - Character Male
+98729 - Character Male
+98744 - Character Male
+98747 - Character Male
+98786 - Character Male
+98788 - Character Male
+98885 - Character Male (Armor to be LA. Armor) [?Player Character?]
+98889 - Character Female
+98893 - Character Male
+98898 - Lynx
+98901 - Monster
+99668 - Character Male (Ghostly)
+99671 - Monster
+99675 - Character Male (Ghostly)
+99717 - Monster
+99720 - Hydra
+99723 - Monster Male
+99727 - Monster Female
+99731 - Monster Male
+99735 - Monster Male
+
+100093 - Character Male
+100099 - Character Male
+100115 - Character Male
+100235 - Character Male
+100245 - Asura
+100384 - Tiger
+101416 - Character Male
+101420 - Character Male
+101428 - Character Male
+101437 - Character Female
+101443 - Character Male
+101449 - Character Female
+101457 - Character Male (Henchman) Panaku
+101464 - Character Female (?Henchman?) ?
+101471 - Character Female (Henchman) Sister Tai
+101478 - Character Male
+101485 - Character Male
+101491 - Character Male
+101498 - Character Male (Henchman) Kai Ying
+101504 - Character Male
+101510 - Character Female
+102943 - Character Male
+102952 - Character Female (Henchman) Chiyo
+102958 - Character Female (Henchman) Emi
+102964 - Character Female (?Henchman?) ?
+103762 - Character Male
+103843 - Character Male
+103846 - Monster
+104265 - Character Male
+104401 - Character Female
+104487 - Character Female (Lady Althea)
+104501 - Character Female
+104516 - Character Male
+105614 - Monster
+105643 - Monster
+105646 - Monster
+105655 - Monster
+105877 - Monster
+105916 - Monster
+105969 - Monster
+105981 - Character Female (?Henchman?) ?
+105984 - Character Female (?Henchman?) ?
+106044 - Character Female
+106046 - Character Male
+106092 - Monster
+106238 - Bull
+106271 - Character Male
+106276 - Character Female
+106347 - Monster
+106392 - Character Male
+106396 - Character Male
+106596 - Monster
+106602 - Character Female
+106606 - Dwarf Character Male
+106609 - Character Male
+108289 - Character Female
+108293 - Character Male
+108298 - Character Male
+108303 - Character Male
+108307 - Character Male
+108311 - Character Female
+108314 - Character Female
+108318 - Character Male
+108322 - Character Female
+108326 - Character Male
+108331 - Character Male
+108429 - Character Male
+108432 - Character Male
+108435 - Character Female
+108438 - Character Female
+108441 - Character Male
+108556 - Dwarf Character Male
+108559 - Dwarf Character Male
+108614 - Monster
+108617 - Monster
+108731 - Monster
+108849 - Monster
+108880 - Dolyak
+108898 - Monster
+108934 - Monster
+108947 - Monster
+109087 - Monster
+109126 - Monster
+109129 - Monster
+109132 - Monster
+109137 - Monster
+109140 - Monster
+109142 - Hydra
+109182 - Monster
+109216 - Monster
+109282 - Monster
+109289 - Monster
+109304 - Monster
+110340 - Monster
+110348 - Monster
+110546 - Tiger
+110549 - Monster
+110679 - Character Female
+111299 - Monster
+111301 - Character Female (?Henchman?) ?
+111304 - Character Male (Henchman) Orion
+111504 - Character Male [?Player Character?]
+111809 - Monster
+112419 - Character Male
+112425 - Character Female
+112428 - Character Male
+112431 - Character Female
+112434 - Character Female
+112437 - Asura
+112753 - Stone Dwarf 
+113064 - {sigh}
+113068 - {sigh}
+113215 - Monster
+113369 - Wolf
+113446 - Bear
+113471 - Norn Character Male
+113507 - Monster
+113511 - Monster
+113515 - Monster
+113566 - Monster
+113573 - Moa
+114160 - Nord Character Female
+114164 - Nord Character Female
+114169 - Nord Character Male
+114174 - Nord Character Male
+115087 - Monster
+115128 - Nord Character Male
+115134 - Nord Character Female
+115136 - Nord Character Male
+115141 - Nord Character Female
+115147 - Monster
+115181 - Monster
+115184 - Monster
+115243 - Monster
+115245 - Monster
+115247 - Monster
+115508 - Monster
+115755 - Monster
+115762 - Dwarf
+115765 - Dwarf
+116868 - Dwarf
+117763 - Monster
+117767 - Charr
+117774 - Charr
+117796 - Character Male
+118144 - Monster
+118150 - Monster
+118155 - Monster
+118316 - Monster
+118332 - Charr
+118337 - Charr
+119344 - Charr
+119425 - Monkey
+120498 - Asura
+120502 - Asura
+120508 - Asura
+120512 - Asura
+120516 - Asura
+120520 - Asura
+120524 - Asura
+120530 - Asura
+120882 - Monster
+120889 - Monster
+120939 - Monster
+120978 - Monster
+120984 - Monster
+121019 - Monster
+121917 - Monster
+121921 - Monster
+122487 - Monster
+122576 - Monster
+122579 - Monster
+122581 - Monster
+122582 - Monster
+122770 - Monster
+122845 - Monster
+122968 - Crab
+122970 - Character Male
+122975 - Character Male
+122979 - Character Male
+122983 - Character Male
+122987 - Character Male
+122991 - Monster
+122994 - Monster
+122997 - Monster
+123001 - Character Female
+123008 - Cape
+123072 - Character Male
+123079 - Character Male
+123084 - Character Female
+123088 - Character Female
+123359 - Character Male
+123363 - Character Male
+123367 - Character Female
+123371 - Character Female
+123375 - Character Male
+123379 - Character Female
+123384 - Character Male
+123388 - Character Female
+123392 - Character Male
+123395 - Character Male
+123399 - Character Male
+123403 - Character Female
+123408 - Character Female
+123640 - Character Male
+123753 - Monster
+123756 - Monster
+123759 - Monster
+123849 - Asura
+123907 - Monster
+123919 - Monster
+123983 - Monster
+124937 - Monster
+124997 - Dwarf
+125024 - Monster
+125132 - Monster
+126474 - Asura
+126478 - Asura
+126522 - Hippo
+126526 - Character Female (Ghostly)
+126543 - Monster
+126577 - Monster
+126618 - Monster
+126665 - Monster
+126685 - Crab
+126735 - Monster
+126785 - Monster
+126846 - Monster
+126849 - Monster
+126920 - Monster
+126921 - Monster
+126923 - Monster
+126928 - Monster
+126937 - Character Male
+126941 - Character Male
+126945 - Character Male
+126949 - Character Male
+126953 - Monster
+127287 - Character Male
+127291 - Character Male Child
+127295 - Character Female Child
+127300 - Character Female
+127445 - Character Male
+127451 - Character Female [Henchman] Sister Tai
+127786 - Monster
+127807 - Bull
+127943 - Character Male
+127951 - Character Female
+127957 - Character Male
+127963 - Character Male
+127967 - Monster
+127971 - Monster
+127975 - Monster
+128054 - Chickhen
+128271 - Chickhen
+128461 - Monster
+128559 - Crain
+128579 - Monster
+128584 - Monster
+128600 - Character Female
+128606 - Character Male
+128611 - Character Male
+128617 - Character Male
+128623 - Character Male
+128628 - Character Male
+128633 - Character Male
+128638 - Character Female
+128808 - Character Female
+128821 - Character Male
+128827 - Character Male (Ghostly)
+129570 - Dredge
+129576 - Dredge
+129648 - Monster
+129826 - Monster
+129831 - Monster
+130298 - Monster
+130516 - Monster
+130551 - Monster
+130754 - Character Male
+130861 - Monster
+130867 - Monster
+130872 - Monster
+131037 - Monster
+131046 - Monster
+131288 - Hyena
+131293 - Lion
+131299 - Character Male
+131305 - Character Female
+131481 - Monster
+131486 - Lion
+131491 - Character Female
+131498 - Character Male
+131507 - Character Male
+131513 - Character Male
+131519 - Character Male (Child)
+131525 - Character Female (Child)
+131532 - Character Male
+131538 - Character Female
+131543 - Character Male
+131550 - Character Female
+131556 - Monster
+131562 - Character Male
+131627 - Character Female
+131632 - Character Male
+131638 - Character Male
+131644 - Character Female
+131655 - Character Male (Halloween)
+131660 - Character Male
+131916 - Character Male
+132102 - Character Female
+132109 - Character Female
+132116 - Character Male
+132287 - Monster
+132384 - Monster
+132389 - Monster
+132395 - Monster
+132399 - Harpy
+132406 - Monster
+132411 - Monster
+132417 - Character Male
+132758 - Monster
+132771 - Monster
+133030 - Monster
+133115 - Seagul
+133189 - Character Female (Child)
+133195 - Character Female
+133201 - Character Male
+133207 - Character Male
+133213 - Character Female
+133219 - Character Female
+133224 - Character Male
+133230 - Character Female
+133546 - Character Female
+133655 - Character Male
+133664 - Monster
+133671 - Character Male
+133677 - Character Female
+133731 - Monster
+133735 - Monster
+133742 - Monster
+133747 - Character Male
+134062 - Character Female
+134093 - Character Male
+134437 - Monster
+134445 - Character Female
+134458 - Monster
+134463 - Monster
+134468 - Monster
+134476 - Character Male
+134484 - Character Female
+134490 - Character Male (Child)
+134496 - Character Male
+135108 - Character Male
+135113 - Character Male
+135117 - Character Male
+135121 - Character Male
+135127 - Character Female
+135132 - Character Female
+135137 - Character Female
+135142 - Character Male
+135174 - Character Male
+135181 - Character Male
+135187 - Character Female
+135195 - Character Male
+135201 - Character Female
+135306 - Character Male
+135318 - Bettle
+135322 - Character Female
+135477 - Character Female
+135483 - Character Female
+136161 - Monster
+136171 - Character Male
+136176 - Character Female
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
